@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Khalid Mesbah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Khalid%20Mesbah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
